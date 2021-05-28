@@ -1,6 +1,6 @@
 | 序号 | 项目名称          | 在线演示                                                     |
 | :--- | :---------------- | :----------------------------------------------------------- |
-| 01   | 仿 mac 导航栏主页 | [在线演示][https://studyfather7.com/html-css-examlpes/07-浏览器主页] |
+| 01   | 仿 mac 导航栏主页 | <a href="https://studyfather7.com/html-css-examlpes/browser-home">在线演示</a> |
 | 02   |                   |                                                              |
 | 03   |                   |                                                              |
 | 04   |                   |                                                              |
