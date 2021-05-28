@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>表单认证</title>
+</head>
+<body>
+    <div class="container">
+        <form id="form">
+            <div class="form-control">
+                <label for="username">用户名</label>
+                <input id="username" type="text" placeholder="输入用户名...">
+                <small>Error message</small>
+            </div>
+            <div class="form-control">
+                <label for="email">邮箱</label>
+                <input id="email" type="text" placeholder="输入邮箱...">
+                <small>Error message</small>
+            </div>
+            <div class="form-control">
+                <label for="password">密码</label>
+                <input id="password" type="password" placeholder="输入密码...">
+                <small>Error message</small>
+            </div>
+            <div class="form-control">
+                <label for="password2">确认密码</label>
+                <input id="password2" type="password" placeholder="再次输入密码...">
+                <small>Error message</small>
+            </div>
+            <button type="submit">注册</button>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
